@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Taha Rahman  
 
 🚀 **About Me**  
-I'm a passionate **Software Developer & Data Analyst** with expertise in **Python, Power BI, SQL, Machine Learning and Full-Stack Development**. I love solving problems by combining **data analytics, visualization, and software engineering**, helping businesses and users make smarter, data-driven decisions.  
+I'm a passionate **Software Developer & Data Analyst** with expertise in **Python, Power BI, Tableau, SQL, Machine Learning and Full-Stack Development**. I love solving problems by combining **data analytics, visualization, and software engineering**, helping businesses and users make smarter, data-driven decisions.  
 
 ---
 
@@ -9,7 +9,7 @@ I'm a passionate **Software Developer & Data Analyst** with expertise in **Pytho
 - **Programming & Development:** Python, C++, Java, C, HTML, CSS, JavaScript, ReactJS, NodeJS  
 - **Databases:** SQL, MySQL, PostgreSQL  
 - **Data Analytics:** Exploratory Data Analysis (EDA), Data Cleaning, Data Transformation  
-- **Visualization & BI Tools:** Power BI, DAX, Interactive Dashboards, MS Excel  
+- **Visualization & BI Tools:** Power BI, Tableau DAX, Interactive Dashboards, MS Excel  
 - **Developer Tools & Platforms:** GitHub, VS Code, PyCharm, Android Studio, Navicat MySQL  
 - **Cloud & Others:** AWS, Microsoft Azure, Power Query, MS Copilot  
 
@@ -43,31 +43,8 @@ I'm a passionate **Software Developer & Data Analyst** with expertise in **Pytho
 
 ---
 
-💼 **Experience**  
-
-**Kruu HCL Jigsaw 5.0 — Project Mentor Intern** *(Aug 2024 – Sep 2024)*  
-- Mentored 10th-grade students on a project to **reduce carbon footprint in e-commerce**.  
-- Guided students in implementing **data-driven strategies**, reducing environmental impact by **15%**.  
-
----
-
-📜 **Certifications**  
-- Python for Data Science (NPTEL)  
-- Google Data Analytics Professional Certificate  
-- Google Cybersecurity Professional Certificate  
-- IBM Full-Stack JavaScript Developer Professional  
-
----
-
-🏆 **Achievements**  
-- Ranked in the **Top 2%** in NPTEL IoT (Internet of Things) exam.  
-- Certified in **Probability & Statistics, Discrete Mathematics, and IoT** through NPTEL.  
-- **15,000+ connections/followers** on LinkedIn.  
-
----
-
 📚 **Learning & Development**  
-Currently exploring **advanced DAX techniques, full-stack development, and cloud-based data solutions (AWS & Azure)** to strengthen both my **software engineering** and **data analytics** expertise.  
+Currently exploring **Machine Learning, MERN Stack development, and cloud-based data solutions (AWS & Azure)** to strengthen both my **software engineering** and **data analytics** expertise.  
 
 ---
 
